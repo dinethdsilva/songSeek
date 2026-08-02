@@ -1,0 +1,1185 @@
+{
+  "playlists": [
+    {
+      "name": "Classic",
+      "lastModifiedDate": "2026-05-29",
+      "collaborators": [
+        "<anonymous-user>"
+      ],
+      "items": [
+        {
+          "track": {
+            "trackName": "Sweet Caroline",
+            "artistName": "Neil Diamond",
+            "albumName": "Sweet Caroline",
+            "trackUri": "spotify:track:62AuGbAkt8Ox2IrFFb8GKV"
+          },
+          "addedDate": "2025-11-22"
+        },
+        {
+          "track": {
+            "trackName": "Let It Be - Remastered 2009",
+            "artistName": "The Beatles",
+            "albumName": "Let It Be",
+            "trackUri": "spotify:track:7iN1s7xHE4ifF5povM6A48"
+          },
+          "addedDate": "2025-11-22"
+        },
+        {
+          "track": {
+            "trackName": "Dream On",
+            "artistName": "Aerosmith",
+            "albumName": "Aerosmith",
+            "trackUri": "spotify:track:1xsYj84j7hUDDnTTerGWlH"
+          },
+          "addedDate": "2023-05-08"
+        },
+        {
+          "track": {
+            "trackName": "Mamma Mia",
+            "artistName": "ABBA",
+            "albumName": "Abba",
+            "trackUri": "spotify:track:2TxCwUlqaOH3TIyJqGgR91"
+          },
+          "addedDate": "2022-10-22"
+        },
+        {
+          "track": {
+            "trackName": "Bohemian Rhapsody - Remastered 2011",
+            "artistName": "Queen",
+            "albumName": "A Night At The Opera",
+            "trackUri": "spotify:track:4u7EnebtmKWzUH433cf5Qv"
+          },
+          "addedDate": "2022-11-25"
+        },
+        {
+          "track": {
+            "trackName": "Daddy Cool",
+            "artistName": "Boney M.",
+            "albumName": "Take The Heat Off Me",
+            "trackUri": "spotify:track:3WMbD1OyfKuwWDWMNbPQ4g"
+          },
+          "addedDate": "2022-10-22"
+        },
+        {
+          "track": {
+            "trackName": "Hotel California - 2013 Remaster",
+            "artistName": "Eagles",
+            "albumName": "Hotel California",
+            "trackUri": "spotify:track:40riOy7x9W7GXjyGp4pjAv"
+          },
+          "addedDate": "2022-10-22"
+        },
+        {
+          "track": {
+            "trackName": "We Are The Champions - Remastered 2011",
+            "artistName": "Queen",
+            "albumName": "News Of The World",
+            "trackUri": "spotify:track:1lCRw5FEZ1gPDNPzy1K4zW"
+          },
+          "addedDate": "2022-10-22"
+        },
+        {
+          "track": {
+            "trackName": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+            "artistName": "ABBA",
+            "albumName": "Voulez-Vous",
+            "trackUri": "spotify:track:3vkQ5DAB1qQMYO4Mr9zJN6"
+          },
+          "addedDate": "2022-10-22"
+        },
+        {
+          "track": {
+            "trackName": "Beat It",
+            "artistName": "Michael Jackson",
+            "albumName": "Thriller",
+            "trackUri": "spotify:track:3BovdzfaX4jb5KFQwoPfAw"
+          },
+          "addedDate": "2024-04-28"
+        },
+        {
+          "track": {
+            "trackName": "Billie Jean",
+            "artistName": "Michael Jackson",
+            "albumName": "Thriller",
+            "trackUri": "spotify:track:7J1uxwnxfQLu4APicE5Rnj"
+          },
+          "addedDate": "2024-04-28"
+        },
+        {
+          "track": {
+            "trackName": "Hello",
+            "artistName": "Lionel Richie",
+            "albumName": "Can't Slow Down",
+            "trackUri": "spotify:track:6HMvJcdw6qLsyV1b5x29sa"
+          },
+          "addedDate": "2022-10-22"
+        },
+        {
+          "track": {
+            "trackName": "Words - Original Version 1983",
+            "artistName": "F.R. David",
+            "albumName": "Words",
+            "trackUri": "spotify:track:1HPJOoIVdUPuaebxzMrVaD"
+          },
+          "addedDate": "2025-11-17"
+        },
+        {
+          "track": {
+            "trackName": "Sweet Dreams (Are Made of This) - 2005 Remaster",
+            "artistName": "Eurythmics",
+            "albumName": "Sweet Dreams (Are Made Of This)",
+            "trackUri": "spotify:track:1TfqLAPs4K3s2rJMoCokcS"
+          },
+          "addedDate": "2024-08-28"
+        },
+        {
+          "track": {
+            "trackName": "Girls Just Want to Have Fun",
+            "artistName": "Cyndi Lauper",
+            "albumName": "She's So Unusual",
+            "trackUri": "spotify:track:4y1LsJpmMti1PfRQV9AWWe"
+          },
+          "addedDate": "2022-10-22"
+        },
+        {
+          "track": {
+            "trackName": "Self Control",
+            "artistName": "Laura Branigan",
+            "albumName": "Self Control",
+            "trackUri": "spotify:track:6JNJERZGJwDVgkmbohBw7u"
+          },
+          "addedDate": "2022-10-22"
+        },
+        {
+          "track": {
+            "trackName": "Last Christmas",
+            "artistName": "Wham!",
+            "albumName": "LAST CHRISTMAS",
+            "trackUri": "spotify:track:2FRnf9qhLbvw8fu4IBXx78"
+          },
+          "addedDate": "2022-10-22"
+        },
+        {
+          "track": {
+            "trackName": "You're My Heart, You're My Soul",
+            "artistName": "Modern Talking",
+            "albumName": "The First & Second Album (30th Anniversary Edition)",
+            "trackUri": "spotify:track:0Zn63G0XTiqXwr1KSmARWz"
+          },
+          "addedDate": "2022-11-23"
+        },
+        {
+          "track": {
+            "trackName": "Cheri Cheri Lady",
+            "artistName": "Modern Talking",
+            "albumName": "Let's Talk About Love",
+            "trackUri": "spotify:track:2aEuA8PSqLa17Y4hKPj5rr"
+          },
+          "addedDate": "2023-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Take on Me",
+            "artistName": "a-ha",
+            "albumName": "Hunting High and Low",
+            "trackUri": "spotify:track:2WfaOiMkCvy7F5fcp2zZ8L"
+          },
+          "addedDate": "2023-05-08"
+        },
+        {
+          "track": {
+            "trackName": "The Final Countdown",
+            "artistName": "Europe",
+            "albumName": "The Final Countdown (Expanded Edition)",
+            "trackUri": "spotify:track:3MrRksHupTVEQ7YbA0FsZK"
+          },
+          "addedDate": "2022-10-22"
+        },
+        {
+          "track": {
+            "trackName": "Atlantis Is Calling (S.O.S. for Love)",
+            "artistName": "Modern Talking",
+            "albumName": "Ready For Romance",
+            "trackUri": "spotify:track:53PlbcGzLTx65vjaS6tG0N"
+          },
+          "addedDate": "2023-02-24"
+        },
+        {
+          "track": {
+            "trackName": "Brother Louie",
+            "artistName": "Modern Talking",
+            "albumName": "Ready For Romance",
+            "trackUri": "spotify:track:5zWZ9iNevP0397xB3jWV2z"
+          },
+          "addedDate": "2024-07-17"
+        },
+        {
+          "track": {
+            "trackName": "(I Just) Died In Your Arms",
+            "artistName": "Cutting Crew",
+            "albumName": "Broadcast",
+            "trackUri": "spotify:track:4ByEFOBuLXpCqvO1kw8Wdm"
+          },
+          "addedDate": "2025-11-17"
+        },
+        {
+          "track": {
+            "trackName": "Endless Summer Nights",
+            "artistName": "Richard Marx",
+            "albumName": "Richard Marx",
+            "trackUri": "spotify:track:2iXH35MhsqO5Ry8a7iptpJ"
+          },
+          "addedDate": "2022-11-23"
+        },
+        {
+          "track": {
+            "trackName": "I Wanna Dance with Somebody (Who Loves Me)",
+            "artistName": "Whitney Houston",
+            "albumName": "Whitney",
+            "trackUri": "spotify:track:2tUBqZG2AbRi7Q0BIrVrEj"
+          },
+          "addedDate": "2024-07-29"
+        },
+        {
+          "track": {
+            "trackName": "Sweet Child O' Mine",
+            "artistName": "Guns N' Roses",
+            "albumName": "Appetite For Destruction",
+            "trackUri": "spotify:track:7snQQk1zcKl8gZ92AnueZW"
+          },
+          "addedDate": "2023-05-08"
+        },
+        {
+          "track": {
+            "trackName": "Smooth Criminal - 2012 Remaster",
+            "artistName": "Michael Jackson",
+            "albumName": "Bad",
+            "trackUri": "spotify:track:5T7ywazdGIydr6JCW6t02j"
+          },
+          "addedDate": "2024-04-28"
+        },
+        {
+          "track": {
+            "trackName": "Right Here Waiting",
+            "artistName": "Richard Marx",
+            "albumName": "Repeat Offender",
+            "trackUri": "spotify:track:4LFwNJWoj74Yd71fIr1W8x"
+          },
+          "addedDate": "2022-11-24"
+        },
+        {
+          "track": {
+            "trackName": "Lambada - Original Version 1989",
+            "artistName": "Kaoma",
+            "albumName": "Lambada - Les originaux No. 1 de l'été",
+            "trackUri": "spotify:track:6xepovPqjvrkEw9Y5AMmTm"
+          },
+          "addedDate": "2023-04-13"
+        },
+        {
+          "track": {
+            "trackName": "Nothing Can Divide Us",
+            "artistName": "Jason Donovan",
+            "albumName": "Ten Good Reasons",
+            "trackUri": "spotify:track:7oD93Os6xLkJLMYj8nC7be"
+          },
+          "addedDate": "2022-10-22"
+        },
+        {
+          "track": {
+            "trackName": "The Best",
+            "artistName": "Tina Turner",
+            "albumName": "Foreign Affair",
+            "trackUri": "spotify:track:6pPWRBubXOBAHnjl5ZIujB"
+          },
+          "addedDate": "2024-07-29"
+        },
+        {
+          "track": {
+            "trackName": "Another Day in Paradise - 2016 Remaster",
+            "artistName": "Phil Collins",
+            "albumName": "...But Seriously",
+            "trackUri": "spotify:track:1NCuYqMc8hKMb4cpNTcJbD"
+          },
+          "addedDate": "2024-10-27"
+        },
+        {
+          "track": {
+            "trackName": "Close To You",
+            "artistName": "Maxi Priest",
+            "albumName": "Bonafide",
+            "trackUri": "spotify:track:33I3oS8UkebR3KRvqxD9X0"
+          },
+          "addedDate": "2022-11-23"
+        },
+        {
+          "track": {
+            "trackName": "It Must Have Been Love - From the Film \"Pretty Woman\"",
+            "artistName": "Roxette",
+            "albumName": "It Must Have Been Love",
+            "trackUri": "spotify:track:6kvoHl80mfCVTv7XnZkjQn"
+          },
+          "addedDate": "2022-11-23"
+        },
+        {
+          "track": {
+            "trackName": "(Everything I Do) I Do It For You",
+            "artistName": "Bryan Adams",
+            "albumName": "Waking Up The Neighbours",
+            "trackUri": "spotify:track:1Eb90nmqTrxylKFhcUzW8P"
+          },
+          "addedDate": "2022-11-20"
+        },
+        {
+          "track": {
+            "trackName": "Black or White",
+            "artistName": "Michael Jackson",
+            "albumName": "Dangerous",
+            "trackUri": "spotify:track:7EsjkelQuoUlJXEw7SeVV4"
+          },
+          "addedDate": "2022-10-22"
+        },
+        {
+          "track": {
+            "trackName": "Heal the World",
+            "artistName": "Michael Jackson",
+            "albumName": "Dangerous",
+            "trackUri": "spotify:track:7woW97CfcWaKtuC6W5BP2K"
+          },
+          "addedDate": "2022-10-22"
+        },
+        {
+          "track": {
+            "trackName": "Just Another Day",
+            "artistName": "Jon Secada",
+            "albumName": "Jon Secada",
+            "trackUri": "spotify:track:5AoBNJQDXXEnIJGjJjZu3y"
+          },
+          "addedDate": "2022-10-22"
+        },
+        {
+          "track": {
+            "trackName": "Happy Nation",
+            "artistName": "Ace of Base",
+            "albumName": "Happy Nation",
+            "trackUri": "spotify:track:7yCF65vpc7sUwPjftI0iFb"
+          },
+          "addedDate": "2024-05-08"
+        },
+        {
+          "track": {
+            "trackName": "If You Go",
+            "artistName": "Jon Secada",
+            "albumName": "Heart, Soul & A Voice",
+            "trackUri": "spotify:track:267iIR5zovTVMwSIGaqIkR"
+          },
+          "addedDate": "2022-10-22"
+        },
+        {
+          "track": {
+            "trackName": "Smooth Operator - Single Version",
+            "artistName": "Sade",
+            "albumName": "The Best of Sade",
+            "trackUri": "spotify:track:1Hv1VTm8zeOeybub15mA2R"
+          },
+          "addedDate": "2024-12-11"
+        },
+        {
+          "track": {
+            "trackName": "Father And Son",
+            "artistName": "Boyzone",
+            "albumName": "Said And Done",
+            "trackUri": "spotify:track:0zyHakmAg2HQaFjCyMgiOZ"
+          },
+          "addedDate": "2022-10-22"
+        },
+        {
+          "track": {
+            "trackName": "Love Me For A Reason",
+            "artistName": "Boyzone",
+            "albumName": "Said And Done",
+            "trackUri": "spotify:track:2GBoo6ufWtMy1s6lqgbjJ8"
+          },
+          "addedDate": "2022-10-22"
+        },
+        {
+          "track": {
+            "trackName": "Candle In The Wind",
+            "artistName": "Elton John",
+            "albumName": "Love Songs",
+            "trackUri": "spotify:track:2nqVa3s6vyN10I8mjb4KwI"
+          },
+          "addedDate": "2022-10-22"
+        },
+        {
+          "track": {
+            "trackName": "Gangsta's Paradise",
+            "artistName": "Coolio",
+            "albumName": "Gangsta's Paradise",
+            "trackUri": "spotify:track:1DIXPcTDzTj8ZMHt3PDt8p"
+          },
+          "addedDate": "2022-12-04"
+        },
+        {
+          "track": {
+            "trackName": "I've Been Thinking About You",
+            "artistName": "Londonbeat",
+            "albumName": "Best! The Singles 16 Tracks",
+            "trackUri": "spotify:track:50PeqUz1BjMw9ayNTk5O4d"
+          },
+          "addedDate": "2022-10-22"
+        },
+        {
+          "track": {
+            "trackName": "Wannabe",
+            "artistName": "Spice Girls",
+            "albumName": "Spice",
+            "trackUri": "spotify:track:1Je1IMUlBXcx1Fz0WE7oPT"
+          },
+          "addedDate": "2022-10-22"
+        },
+        {
+          "track": {
+            "trackName": "Say You'll Be There",
+            "artistName": "Spice Girls",
+            "albumName": "Spice",
+            "trackUri": "spotify:track:1yTQ39my3MoNROlFw3RDNy"
+          },
+          "addedDate": "2022-11-25"
+        },
+        {
+          "track": {
+            "trackName": "2 Become 1",
+            "artistName": "Spice Girls",
+            "albumName": "Spice",
+            "trackUri": "spotify:track:36AWdhZIGLUTkWpJDhe7va"
+          },
+          "addedDate": "2022-11-25"
+        },
+        {
+          "track": {
+            "trackName": "Coco Jamboo",
+            "artistName": "Mr. President",
+            "albumName": "We See the Same Sun",
+            "trackUri": "spotify:track:5fRvePkRGdpn2nKacG7I6d"
+          },
+          "addedDate": "2022-10-22"
+        },
+        {
+          "track": {
+            "trackName": "Where Do You Go",
+            "artistName": "No Mercy",
+            "albumName": "My Promise",
+            "trackUri": "spotify:track:37tzoWY1ubBQKGXiWdO5Qv"
+          },
+          "addedDate": "2022-11-23"
+        },
+        {
+          "track": {
+            "trackName": "When I Die",
+            "artistName": "No Mercy",
+            "albumName": "My Promise",
+            "trackUri": "spotify:track:4z1IYRhVpbLCBaqZXYIl66"
+          },
+          "addedDate": "2022-11-23"
+        },
+        {
+          "track": {
+            "trackName": "Please Don't Go",
+            "artistName": "No Mercy",
+            "albumName": "My Promise",
+            "trackUri": "spotify:track:6TF2LthEA2BqImvYKToR0V"
+          },
+          "addedDate": "2022-11-24"
+        },
+        {
+          "track": {
+            "trackName": "Too Late, Too Soon",
+            "artistName": "Jon Secada",
+            "albumName": "Secada",
+            "trackUri": "spotify:track:0A2FMrx8LiswErLm7OSNDL"
+          },
+          "addedDate": "2022-10-22"
+        },
+        {
+          "track": {
+            "trackName": "Turn Back Time",
+            "artistName": "Aqua",
+            "albumName": "Aquarium",
+            "trackUri": "spotify:track:04ad6JdnrYtTQ2hjc4LulJ"
+          },
+          "addedDate": "2022-10-22"
+        },
+        {
+          "track": {
+            "trackName": "Good Morning Sunshine",
+            "artistName": "Aqua",
+            "albumName": "Aquarium",
+            "trackUri": "spotify:track:37aaoACYOsKQ9UXz1Ql6tH"
+          },
+          "addedDate": "2022-10-22"
+        },
+        {
+          "track": {
+            "trackName": "Barbie Girl",
+            "artistName": "Aqua",
+            "albumName": "Aquarium",
+            "trackUri": "spotify:track:5ZrDlcxIDZyjOzHdYW1ydr"
+          },
+          "addedDate": "2022-10-22"
+        },
+        {
+          "track": {
+            "trackName": "Spice Up Your Life",
+            "artistName": "Spice Girls",
+            "albumName": "Spiceworld",
+            "trackUri": "spotify:track:5qGwqO0lkbBXw4xNfzT7SF"
+          },
+          "addedDate": "2022-11-25"
+        },
+        {
+          "track": {
+            "trackName": "Stop",
+            "artistName": "Spice Girls",
+            "albumName": "Spiceworld",
+            "trackUri": "spotify:track:3FteycP8CaXS1MhjcXekVT"
+          },
+          "addedDate": "2022-11-25"
+        },
+        {
+          "track": {
+            "trackName": "As Long as You Love Me",
+            "artistName": "Backstreet Boys",
+            "albumName": "Backstreet's Back",
+            "trackUri": "spotify:track:3UpS7kBnkVQYG13pDDFTC4"
+          },
+          "addedDate": "2022-11-24"
+        },
+        {
+          "track": {
+            "trackName": "Everybody (Backstreet's Back) - Radio Edit",
+            "artistName": "Backstreet Boys",
+            "albumName": "Backstreet's Back",
+            "trackUri": "spotify:track:1di1BEgJYzPvXUuinsYJGP"
+          },
+          "addedDate": "2024-07-29"
+        },
+        {
+          "track": {
+            "trackName": "My Heart Will Go On - Love Theme from \"Titanic\"",
+            "artistName": "Céline Dion",
+            "albumName": "Let's Talk About Love",
+            "trackUri": "spotify:track:33LC84JgLvK2KuW43MfaNq"
+          },
+          "addedDate": "2022-10-22"
+        },
+        {
+          "track": {
+            "trackName": "Frozen",
+            "artistName": "Madonna",
+            "albumName": "Ray of Light",
+            "trackUri": "spotify:track:2II03llydk4YnkBBvoYB3B"
+          },
+          "addedDate": "2022-10-22"
+        },
+        {
+          "track": {
+            "trackName": "Livin' la Vida Loca",
+            "artistName": "Ricky Martin",
+            "albumName": "Ricky Martin",
+            "trackUri": "spotify:track:0Ph6L4l8dYUuXFmb71Ajnd"
+          },
+          "addedDate": "2022-10-22"
+        },
+        {
+          "track": {
+            "trackName": "...Baby One More Time",
+            "artistName": "Britney Spears",
+            "albumName": "...Baby One More Time (Digital Deluxe Version)",
+            "trackUri": "spotify:track:3MjUtNVVq3C8Fn0MP3zhXa"
+          },
+          "addedDate": "2022-10-22"
+        },
+        {
+          "track": {
+            "trackName": "I Will Be There",
+            "artistName": "Britney Spears",
+            "albumName": "...Baby One More Time (Digital Deluxe Version)",
+            "trackUri": "spotify:track:2I320CTP7hYFTtiFo1H6CD"
+          },
+          "addedDate": "2022-10-22"
+        },
+        {
+          "track": {
+            "trackName": "Born to Make You Happy",
+            "artistName": "Britney Spears",
+            "albumName": "...Baby One More Time (Digital Deluxe Version)",
+            "trackUri": "spotify:track:4l1MNtoCiTxBwf6yxD7kFd"
+          },
+          "addedDate": "2022-10-22"
+        },
+        {
+          "track": {
+            "trackName": "I Want It That Way",
+            "artistName": "Backstreet Boys",
+            "albumName": "Millennium",
+            "trackUri": "spotify:track:47BBI51FKFwOMlIiX6m8ya"
+          },
+          "addedDate": "2022-10-22"
+        },
+        {
+          "track": {
+            "trackName": "If I Let You Go - Radio Edit",
+            "artistName": "Westlife",
+            "albumName": "Westlife",
+            "trackUri": "spotify:track:3St0RlsL0Z0klK1mqWakQm"
+          },
+          "addedDate": "2022-11-24"
+        },
+        {
+          "track": {
+            "trackName": "I Just Called To Say I Love You",
+            "artistName": "Stevie Wonder",
+            "albumName": "At The Close Of A Century",
+            "trackUri": "spotify:track:6RNDeRnWsRMjPdNVgupZCs"
+          },
+          "addedDate": "2022-10-22"
+        },
+        {
+          "track": {
+            "trackName": "Bailamos",
+            "artistName": "Enrique Iglesias",
+            "albumName": "Enrique",
+            "trackUri": "spotify:track:2bbeNsFmjZqdoDhjLsKNWe"
+          },
+          "addedDate": "2022-10-22"
+        },
+        {
+          "track": {
+            "trackName": "Be With You",
+            "artistName": "Enrique Iglesias",
+            "albumName": "Enrique",
+            "trackUri": "spotify:track:2N4viTG9njqCa4c46YyWs1"
+          },
+          "addedDate": "2022-10-22"
+        },
+        {
+          "track": {
+            "trackName": "It's My Life",
+            "artistName": "Bon Jovi",
+            "albumName": "Crush",
+            "trackUri": "spotify:track:0v1XpBHnsbkCn7iJ9Ucr1l"
+          },
+          "addedDate": "2022-10-22"
+        },
+        {
+          "track": {
+            "trackName": "Angel",
+            "artistName": "Shaggy",
+            "albumName": "Hot Shot",
+            "trackUri": "spotify:track:7FDV5ELOJHCGLe52AnttEd"
+          },
+          "addedDate": "2022-11-23"
+        },
+        {
+          "track": {
+            "trackName": "Walking Away",
+            "artistName": "Craig David",
+            "albumName": "Born to Do It",
+            "trackUri": "spotify:track:3R7fjB38qajI6JR69y5k4e"
+          },
+          "addedDate": "2022-11-25"
+        },
+        {
+          "track": {
+            "trackName": "In the End",
+            "artistName": "Linkin Park",
+            "albumName": "Hybrid Theory",
+            "trackUri": "spotify:track:60a0Rd6pjrkxjPbaKzXjfq"
+          },
+          "addedDate": "2023-05-08"
+        },
+        {
+          "track": {
+            "trackName": "Only Time",
+            "artistName": "Enya",
+            "albumName": "A Day Without Rain",
+            "trackUri": "spotify:track:6FLwmdmW77N1Pxb1aWsZmO"
+          },
+          "addedDate": "2024-05-09"
+        },
+        {
+          "track": {
+            "trackName": "Can't Get You out of My Head",
+            "artistName": "Kylie Minogue",
+            "albumName": "Fever",
+            "trackUri": "spotify:track:3E7ZwUMJFqpsDOJzEkBrQ7"
+          },
+          "addedDate": "2025-11-17"
+        },
+        {
+          "track": {
+            "trackName": "Can You Feel the Love Tonight - End Title",
+            "artistName": "Elton John",
+            "albumName": "The Lion King: Special Edition Original Soundtrack",
+            "trackUri": "spotify:track:32RxZnEk5KyWUTZR4azxbD"
+          },
+          "addedDate": "2022-10-22"
+        },
+        {
+          "track": {
+            "trackName": "You Raise Me Up",
+            "artistName": "Josh Groban",
+            "albumName": "Closer",
+            "trackUri": "spotify:track:1xugsCboIm1yILqpLvH9aD"
+          },
+          "addedDate": "2022-10-26"
+        },
+        {
+          "track": {
+            "trackName": "Ice Ice Baby",
+            "artistName": "Vanilla Ice",
+            "albumName": "Vanilla Ice Is Back! - Hip Hop Classics",
+            "trackUri": "spotify:track:3XVozq1aeqsJwpXrEZrDJ9"
+          },
+          "addedDate": "2023-01-08"
+        },
+        {
+          "track": {
+            "trackName": "Rain Over Me (feat. Marc Anthony)",
+            "artistName": "Pitbull",
+            "albumName": "Planet Pit (Deluxe Version)",
+            "trackUri": "spotify:track:2cZrrQMjB63c0iIugYH9zS"
+          },
+          "addedDate": "2022-10-22"
+        },
+        {
+          "track": {
+            "trackName": "a thousand years",
+            "artistName": "Christina Perri",
+            "albumName": "The Twilight Saga: Breaking Dawn - Part 1",
+            "trackUri": "spotify:track:03H03k1F6t3VqCSPRBtuHk"
+          },
+          "addedDate": "2022-10-22"
+        },
+        {
+          "track": {
+            "trackName": "Bahama Mama",
+            "artistName": "Boney M.",
+            "albumName": "The Essential Boney M.",
+            "trackUri": "spotify:track:22VzZnyTH9lH0aXfchLjgm"
+          },
+          "addedDate": "2022-10-22"
+        },
+        {
+          "track": {
+            "trackName": "Bad - 2012 Remaster",
+            "artistName": "Michael Jackson",
+            "albumName": "Bad 25th Anniversary",
+            "trackUri": "spotify:track:5lWFrW5T3JtxVCLDb7etPu"
+          },
+          "addedDate": "2022-12-02"
+        },
+        {
+          "track": {
+            "trackName": "Mary's Boy Child / Oh My Lord",
+            "artistName": "Boney M.",
+            "albumName": "Worldmusic for Christmas",
+            "trackUri": "spotify:track:2qqZ5fOGuNvYVzgPFDLQ4l"
+          },
+          "addedDate": "2022-10-22"
+        },
+        {
+          "track": {
+            "trackName": "The Champion",
+            "artistName": "Carrie Underwood",
+            "albumName": "The Champion",
+            "trackUri": "spotify:track:0stPNUkU1LZnvxIcfrKnEZ"
+          },
+          "addedDate": "2022-10-22"
+        },
+        {
+          "track": {
+            "trackName": "2 Times - Original",
+            "artistName": "Ann Lee",
+            "albumName": "2 Times",
+            "trackUri": "spotify:track:4IiKITgHYaHrF1zUlcTyVH"
+          },
+          "addedDate": "2025-11-23"
+        },
+        {
+          "track": {
+            "trackName": "Broken Angel (feat. Helena)",
+            "artistName": "Arash",
+            "albumName": "SUPERMAN",
+            "trackUri": "spotify:track:6vfQAHorSiUKMPvu0hBcI8"
+          },
+          "addedDate": "2025-11-23"
+        },
+        {
+          "track": {
+            "trackName": "Stayin' Alive - From \"Saturday Night Fever\" Soundtrack",
+            "artistName": "Bee Gees",
+            "albumName": "Greatest",
+            "trackUri": "spotify:track:3mRM4NM8iO7UBqrSigCQFH"
+          },
+          "addedDate": "2025-11-23"
+        },
+        {
+          "track": {
+            "trackName": "Stand By Me",
+            "artistName": "Ben E. King",
+            "albumName": "Don't Play That Song",
+            "trackUri": "spotify:track:7jmHyHMEqm9MJWiMAneF05"
+          },
+          "addedDate": "2025-11-23"
+        },
+        {
+          "track": {
+            "trackName": "Rasputin - Single Version",
+            "artistName": "Boney M.",
+            "albumName": "Fantastic Boney M.",
+            "trackUri": "spotify:track:67hbP9PFQZrb4XZc3TzB0s"
+          },
+          "addedDate": "2025-11-23"
+        },
+        {
+          "track": {
+            "trackName": "That's the Way It Is",
+            "artistName": "Céline Dion",
+            "albumName": "Love Again (Soundtrack from the Motion Picture)",
+            "trackUri": "spotify:track:0aKWpnMZCR42M9lLhnzJEZ"
+          },
+          "addedDate": "2025-11-23"
+        },
+        {
+          "track": {
+            "trackName": "Would I Lie To You? - Album Edit",
+            "artistName": "Charles & Eddie",
+            "albumName": "Would I Lie To You?",
+            "trackUri": "spotify:track:1XFyebjye69ZVGR2WOze2U"
+          },
+          "addedDate": "2025-11-23"
+        },
+        {
+          "track": {
+            "trackName": "Zombie - 2025 Remastered",
+            "artistName": "The Cranberries",
+            "albumName": "No Need To Argue",
+            "trackUri": "spotify:track:3gjHnylel3PTRpjS44ocqr"
+          },
+          "addedDate": "2025-11-23"
+        },
+        {
+          "track": {
+            "trackName": "Sacrifice",
+            "artistName": "Elton John",
+            "albumName": "To Be Continued...",
+            "trackUri": "spotify:track:2FEJakApJ34PB5CXRYLspv"
+          },
+          "addedDate": "2025-11-23"
+        },
+        {
+          "track": {
+            "trackName": "Jailhouse Rock",
+            "artistName": "Elvis Presley",
+            "albumName": "Platinum - A Life In Music",
+            "trackUri": "spotify:track:452KBpASS5lZLeJWX9Ixub"
+          },
+          "addedDate": "2025-11-23"
+        },
+        {
+          "track": {
+            "trackName": "Careless Whisper - Remastered",
+            "artistName": "George Michael",
+            "albumName": "Careless Whisper EP",
+            "trackUri": "spotify:track:5ac3D4hNLW7NFhYFCThXgh"
+          },
+          "addedDate": "2025-11-23"
+        },
+        {
+          "track": {
+            "trackName": "Ooh Aah...Just a Little Bit - Motiv8 Radio Edit",
+            "artistName": "Gina G.",
+            "albumName": "90-talsparty!",
+            "trackUri": "spotify:track:5lqfF6xl1404s9l4mqQgvf"
+          },
+          "addedDate": "2025-11-23"
+        },
+        {
+          "track": {
+            "trackName": "What Is Love - 7\" Mix",
+            "artistName": "Haddaway",
+            "albumName": "The Album",
+            "trackUri": "spotify:track:0OTO8ZF2YqFQVw9hnZylTd"
+          },
+          "addedDate": "2025-11-23"
+        },
+        {
+          "track": {
+            "trackName": "Sealed with a Kiss",
+            "artistName": "Jason Donovan",
+            "albumName": "Sealed With a Kiss",
+            "trackUri": "spotify:track:4TaJa7pIKy0FNFTVv5PlaT"
+          },
+          "addedDate": "2025-11-23"
+        },
+        {
+          "track": {
+            "trackName": "Too Many Broken Hearts",
+            "artistName": "Jason Donovan",
+            "albumName": "Too Many Broken Hearts",
+            "trackUri": "spotify:track:0MFEyNAn08HvzfbteolLWT"
+          },
+          "addedDate": "2025-11-23"
+        },
+        {
+          "track": {
+            "trackName": "I Can See Clearly Now",
+            "artistName": "Jimmy Cliff",
+            "albumName": "Sunshine In The Music",
+            "trackUri": "spotify:track:2p21JKTsAM4KrJt9z2tGWQ"
+          },
+          "addedDate": "2025-11-23"
+        },
+        {
+          "track": {
+            "trackName": "Take Me Home, Country Roads",
+            "artistName": "John Denver",
+            "albumName": "The John Denver Collection, Vol 1: Take Me Home Country Roads",
+            "trackUri": "spotify:track:1QbOvACeYanja5pbnJbAmk"
+          },
+          "addedDate": "2025-11-23"
+        },
+        {
+          "track": {
+            "trackName": "Macarena - Bayside Boys Remix",
+            "artistName": "Los Del Rio",
+            "albumName": "Macarena (EP)",
+            "trackUri": "spotify:track:07DcH2UllHvVRKjD2HEJuC"
+          },
+          "addedDate": "2025-11-23"
+        },
+        {
+          "track": {
+            "trackName": "La Isla Bonita",
+            "artistName": "Madonna",
+            "albumName": "True Blue",
+            "trackUri": "spotify:track:0NJdtoQ3RX5ckBjJlNXhlP"
+          },
+          "addedDate": "2025-11-23"
+        },
+        {
+          "track": {
+            "trackName": "Material Girl",
+            "artistName": "Madonna",
+            "albumName": "Like a Virgin",
+            "trackUri": "spotify:track:7bkyXSi4GtVfD7itZRUR3e"
+          },
+          "addedDate": "2025-11-23"
+        },
+        {
+          "track": {
+            "trackName": "I Turn To You - Hex Hector Radio Mix",
+            "artistName": "Melanie C",
+            "albumName": "Northern Star",
+            "trackUri": "spotify:track:5x5zRAJy1a8lSKWCCKSCIH"
+          },
+          "addedDate": "2025-11-23"
+        },
+        {
+          "track": {
+            "trackName": "Thriller",
+            "artistName": "Michael Jackson",
+            "albumName": "Thriller",
+            "trackUri": "spotify:track:2LlQb7Uoj1kKyGhlkBf9aC"
+          },
+          "addedDate": "2025-11-23"
+        },
+        {
+          "track": {
+            "trackName": "They Don't Care About Us",
+            "artistName": "Michael Jackson",
+            "albumName": "HIStory - PAST, PRESENT AND FUTURE - BOOK I",
+            "trackUri": "spotify:track:3wuCCNCnBhJlwkIJTBZFiv"
+          },
+          "addedDate": "2025-11-23"
+        },
+        {
+          "track": {
+            "trackName": "Always on My Mind",
+            "artistName": "Pet Shop Boys",
+            "albumName": "Discography - Complete Singles Collection",
+            "trackUri": "spotify:track:07ABETRdek3ACMpRPvQuaT"
+          },
+          "addedDate": "2025-11-23"
+        },
+        {
+          "track": {
+            "trackName": "It's a Sin - 2018 Remaster",
+            "artistName": "Pet Shop Boys",
+            "albumName": "Actually: Further Listening 1987 - 1988",
+            "trackUri": "spotify:track:5fy4vfEtv6lzqLx2Mt7stF"
+          },
+          "addedDate": "2025-11-23"
+        },
+        {
+          "track": {
+            "trackName": "Go West - 2003 Remaster",
+            "artistName": "Pet Shop Boys",
+            "albumName": "PopArt: The Hits",
+            "trackUri": "spotify:track:5Klo65Y9uouLjNVDV3pqh7"
+          },
+          "addedDate": "2025-11-23"
+        },
+        {
+          "track": {
+            "trackName": "Never Gonna Give You Up",
+            "artistName": "Rick Astley",
+            "albumName": "Whenever You Need Somebody",
+            "trackUri": "spotify:track:4PTG3Z6ehGkBFwjybzWkR8"
+          },
+          "addedDate": "2025-11-23"
+        },
+        {
+          "track": {
+            "trackName": "Together Forever",
+            "artistName": "Rick Astley",
+            "albumName": "Whenever You Need Somebody",
+            "trackUri": "spotify:track:00isIFJWVpXIQ8HkGICSQp"
+          },
+          "addedDate": "2025-11-23"
+        },
+        {
+          "track": {
+            "trackName": "Whenever You Need Somebody",
+            "artistName": "Rick Astley",
+            "albumName": "Whenever You Need Somebody",
+            "trackUri": "spotify:track:3X4r1d2VDYjgPYjAEjbEM7"
+          },
+          "addedDate": "2025-11-23"
+        },
+        {
+          "track": {
+            "trackName": "Listen To Your Heart",
+            "artistName": "Roxette",
+            "albumName": "Look Sharp!",
+            "trackUri": "spotify:track:2MaBAGBIttgv86bYytdx1f"
+          },
+          "addedDate": "2025-11-23"
+        },
+        {
+          "track": {
+            "trackName": "Dynamite",
+            "artistName": "Taio Cruz",
+            "albumName": "Rokstarr",
+            "trackUri": "spotify:track:0r4iLyCpW9e27ATCupFF64"
+          },
+          "addedDate": "2025-11-23"
+        },
+        {
+          "track": {
+            "trackName": "Everybody Wants To Rule The World",
+            "artistName": "Tears For Fears",
+            "albumName": "Songs From The Big Chair",
+            "trackUri": "spotify:track:4RvWPyQ5RL0ao9LPZeSouE"
+          },
+          "addedDate": "2025-11-23"
+        },
+        {
+          "track": {
+            "trackName": "Around the World (La La La La La)",
+            "artistName": "A Touch Of Class",
+            "albumName": "Planet Pop",
+            "trackUri": "spotify:track:7CvOnbFdnIoXMQ4eFCo5lB"
+          },
+          "addedDate": "2025-11-23"
+        },
+        {
+          "track": {
+            "trackName": "Mayonaka no Door / Stay With Me",
+            "artistName": "Miki Matsubara",
+            "albumName": "Miki Matsubara Best Collection",
+            "trackUri": "spotify:track:2BHj31ufdEqVK5CkYDp9mA"
+          },
+          "addedDate": "2025-11-23"
+        },
+        {
+          "track": {
+            "trackName": "Tarzan Boy",
+            "artistName": "Baltimora",
+            "albumName": "Living In The Background",
+            "trackUri": "spotify:track:273uCXd7NPrInaiNqtkOrA"
+          },
+          "addedDate": "2025-11-23"
+        },
+        {
+          "track": {
+            "trackName": "Axel F",
+            "artistName": "Crazy Frog",
+            "albumName": "Crazy Frog presents Crazy Hits",
+            "trackUri": "spotify:track:0Bo5fjMtTfCD8vHGebivqc"
+          },
+          "addedDate": "2025-11-23"
+        },
+        {
+          "track": {
+            "trackName": "Bye Bye Bye",
+            "artistName": "*NSYNC",
+            "albumName": "No Strings Attached",
+            "trackUri": "spotify:track:4r8lRYnoOGdEi6YyI5OC1o"
+          },
+          "addedDate": "2025-11-23"
+        },
+        {
+          "track": {
+            "trackName": "Heaven",
+            "artistName": "Bryan Adams",
+            "albumName": "Reckless",
+            "trackUri": "spotify:track:7Ewz6bJ97vUqk5HdkvguFQ"
+          },
+          "addedDate": "2025-11-25"
+        },
+        {
+          "track": {
+            "trackName": "Wind Of Change",
+            "artistName": "Scorpions",
+            "albumName": "Crazy World",
+            "trackUri": "spotify:track:3ovjw5HZZv43SxTwApooCM"
+          },
+          "addedDate": "2025-11-25"
+        },
+        {
+          "track": {
+            "trackName": "Show Me the Meaning of Being Lonely",
+            "artistName": "Backstreet Boys",
+            "albumName": "Millennium",
+            "trackUri": "spotify:track:3BsaRV5QIulYz2lV9WWa8T"
+          },
+          "addedDate": "2025-11-25"
+        },
+        {
+          "track": {
+            "trackName": "One Way Ticket",
+            "artistName": "Eruption",
+            "albumName": "4 Hits: Eruption",
+            "trackUri": "spotify:track:68MSCSP7Y6PnzXcW1IlN7G"
+          },
+          "addedDate": "2026-02-18"
+        },
+        {
+          "track": {
+            "trackName": "I Want to Know What Love Is - 1999 Remaster",
+            "artistName": "Foreigner",
+            "albumName": "Agent Provocateur",
+            "trackUri": "spotify:track:1JLn8RhQzHz3qDqsChcmBl"
+          },
+          "addedDate": "2026-05-29"
+        }
+      ],
+      "description": "Never forget",
+      "numberOfFollowers": 2
+    }
+  ]
+}
