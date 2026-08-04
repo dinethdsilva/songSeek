@@ -7,11 +7,12 @@ def desplayFiles(fileList, limit):
     for i in range(no):
         file = fileList[i]
         name = file["name"]
-        bitDepth = depthbit(file["bitDepth"]) if "bitDepth" in file else ""
-        sampleRate = ratekhz(file["sampleRate"]) if "sampleRate" in file else ""
+        bitDepth = file["bitDepth"] if "bitDepth" in file else ""
+        sampleRate = ratekHz(file["sampleRate"]) if "sampleRate" in file else ""
         length = timemin(file["length"]) if "length" in file else ""
-        size = sizeMb(file["size"]) if "size" in file else ""
-        desplay = f"\n[{i}] {file["filename"]}\n\t{name} [ \033[31m{sampleRate}\033[0m | \033[33m{bitDepth}\033[0m | \033[32m{size}\033[0m | \033[34m{length}\033[0m ]"
+        size = sizeMB(file["size"]) if "size" in file else ""
+        time = f"{length[0]}.{f"0{length[1]}" if length[1] < 10 else length[1]}"
+        desplay = f"\n[{i}] {file["filename"]}\n\t{name} [ \033[33m{bitDepth} bit\033[0m/\033[31m{sampleRate} khz\033[0m | \033[32m{size} MB\033[0m | \033[34m{time}\033[0m ]"
         print(desplay)
         if i % limit == limit - 1:
             yield
@@ -26,6 +27,6 @@ def getSelection(desplay):
             return getSelection(desplay)
         except:
             cmd = input("\nEnd of file list, Please enter a number:- ")
-            return int(cmd)
+            return cmd
     else:
-        return int(cmd)
+        return cmd
